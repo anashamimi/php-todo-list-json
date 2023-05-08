@@ -1,0 +1,12 @@
+[
+    {
+        "quantity": 2,
+        "name": "pane",
+        "completed": false
+    },
+    {
+        "quantity": 1,
+        "name": "acqua",
+        "completed": false
+    }
+]
